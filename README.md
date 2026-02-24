@@ -3,8 +3,6 @@
 ## 🚀 Overview
 This is a full-stack Airbnb-style booking web application where users can browse listings and interact with a dynamic UI. The site demonstrates front-end design and basic back-end logic.
 
-## 🌐 Live Demo
-Live version: https://air-bnb-coral.vercel.app
 
 ## 🧠 Features
 - Responsive user interface
